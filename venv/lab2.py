@@ -1,6 +1,6 @@
 import requests
 city="Krasnodar,RU"
-key="97c676640f15ff8e50d273f836e991b0"
+key="97c6762340f15ffdawdwa273f836e991b0"
 """
 res = requests.get("http://api.openweathermap.org/data/2.5/weather",
 params={'q': city, 'units': 'metric', 'lang': 'ru', 'APPID': key})
